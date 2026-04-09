@@ -154,3 +154,9 @@ The circuit is designed to be **low-cost and production-friendly**.
 - Avoiding false triggers from ambient light
 - Stable IR detection
 - Efficient duty cycling implementation
+
+---
+## 📷 Circuit Diagram
+<img width="1031" height="637" alt="image" src="https://github.com/user-attachments/assets/4b921a59-2c3c-405a-875d-edbec008ff3a" />
+
+---
